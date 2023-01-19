@@ -247,3 +247,4 @@ end)
 Main_:CreateButton("Slasher", "Slasher", "", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/qQk2MB7R"))()
 end)
+
